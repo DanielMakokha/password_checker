@@ -1,0 +1,3 @@
+let WeakPassword = /[a-z]/;
+let MediumPassword = /\d+/;
+let StrongPassword = /.[!,@,#,$,%,^,&,*,?,_,~,-,(,)]/;
